@@ -5,8 +5,8 @@ header-img: img/home-bg.png
 email: lynnette@letterperfectllc.com
 copyright_name: Lynnette P. Horner
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "ancientpath"
+url: "http://letterperfectllc.github.io"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
