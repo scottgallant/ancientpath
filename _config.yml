@@ -1,15 +1,16 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+title: Walking an Ancient Path
+subtitle: Living Orthodox Christianity in a Modern World
+header-img: img/home-bg.png
+email: lynnette@letterperfectllc.com
+copyright_name: Lynnette P. Horner
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+email_username:  lynnette@letterperfectllc.com
 
 # Build settings
 markdown: kramdown
