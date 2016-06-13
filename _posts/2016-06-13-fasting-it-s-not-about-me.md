@@ -28,7 +28,7 @@ In our individualistic Western traditions, it’s normal to think, “I love cho
 
 There is a great, oft-repeated saying: “Fasting without prayer and almsgiving is dieting.” I’m not sure who said this first, but it bears repeating. If I merely abstain from certain foods without also devoting extra time to prayer (hopefully taken from the time required to plan and prepare fancy meals) and without giving extra money (money that I’ve saved by not buying expensive meats and cheeses), I’m simply going through the motions.
 
-St. John Chrysostom, the great fourth-century preacher and the author of the Divine Liturgy used to this day, said it best:
+St. John Chrysostom, the great *fourth-century* preacher and the author of the Divine Liturgy used to this day, said it best:
 
 > Do you fast? Give me proof of it by your works.
 > If you see a poor man, take pity on him.
