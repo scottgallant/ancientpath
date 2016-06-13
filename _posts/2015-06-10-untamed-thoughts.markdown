@@ -1,12 +1,15 @@
 ---
-layout:     post
-title:      "Canned Prayers and Untamed Thoughts"
-subtitle:   ""
-date:       2015-06-10 12:00:00
-author:     "Lynnette Horner"
-header-img: "img/post-bg-01.jpg"
----
+title: Canned Prayers and Untamed Thoughts
+date: '2015-06-10 12:00:00'
+categories: []
+layout: post
+subtitle: ''
+author: Lynnette Horner
+header-img: img/post-bg-01.jpg
+slug: untamed-thoughts
+tags: []
 
+---
 When I was growing up in a United Methodist Church that was quite evangelistic and with some charismatic elements (hard to imagine nowadays), I had some friends who were Episcopal. Occasionally I would hear references to their Book of Common Prayer, which I thought was odd. Why would anyone need a book to pray? Don’t they know how to talk to God?
 
 I considered written prayers to be “canned”—somebody else’s script, about as spiritually nutritious as limp, tinned vegetables—not “real” prayers, prayed from the heart. I didn’t consider the fact that the entire book of Psalms consists of 150 canned prayers, and they are considered the prayer book of the Church. I also conveniently forgot that when Jesus told us how to pray, he gave us a scripted prayer—the Lord’s Prayer.

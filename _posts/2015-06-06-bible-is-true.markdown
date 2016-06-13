@@ -1,12 +1,15 @@
 ---
-layout:     post
-title:      "The Bible is True"
-subtitle:   "Except for the stuff about dead Christians"
-date:       2015-06-06 12:00:00
-author:     "Lynnette Horner"
-header-img: "img/post-bg-05.jpg"
----
+title: The Bible is True
+date: '2015-06-06 12:00:00'
+categories: []
+layout: post
+subtitle: Except for the stuff about dead Christians
+author: Lynnette Horner
+header-img: img/post-bg-05.jpg
+slug: bible-is-true
+tags: []
 
+---
 Along with a small group of college students, Rob and I have been reading through a book that has really challenged my thinking, written by Fr. Stephen Freeman, called Everywhere Present: Christianity in a One-Story Universe.  The basic message of the book is that Western thinking, both secular and Christian, has relegated God to a different sphere of life… [better explanation].
 
 What really struck me is that I spent my life as a Protestant affirming the Bible as the Word of God yet completely ignored the logic of passages that affirm the communion of the saints, living and dead. All of us as one Church—not a congregation somewhere off in a heavenly realm and the rest of us mucking about on Earth.
