@@ -22,7 +22,7 @@ In contrast to this individualized approach, corporate fasting—fasting not as 
 
 In the Orthodox Church, nobody asks, “What are you giving up for Lent?” On the [Q&A section of the website of the Orthodox Church in America](http://oca.org/questions), Fr. John Matusiak explains fasting well:  “The purpose of fasting is not to ‘give up’ things, nor to do something ‘sacrificial.’ …We fast in order to gain control, to discipline ourselves, to gain control of those things that we have allowed to get out of control.” 
 
->In our individualistic Western traditions, it’s normal to think, “I love chocolate, therefore I’m giving up candy. I drink too much caffeine, so I’m giving up coffee for Lent.” It may be personally beneficial to give up these things—just please don’t come between me and my coffee—but the individualistic aspect of this approach to fasting is foreign to the Church through the ages. Fr. Matusiak continues, “Giving up candy—unless one is controlled by candy—is not fasting. …We do not fast in order to suffer. We fast in order to get a grip on our lives and to regain control of those things that have gotten out of control. Further, as we sing during the first week of Great Lent, ‘while fasting from food, let us also fast from our passions.’” This leads to the third point.
+In our individualistic Western traditions, it’s normal to think, “I love chocolate, therefore I’m giving up candy. I drink too much caffeine, so I’m giving up coffee for Lent.” It may be personally beneficial to give up these things—just please don’t come between me and my coffee—but the individualistic aspect of this approach to fasting is foreign to the Church through the ages. Fr. Matusiak continues, “Giving up candy—unless one is controlled by candy—is not fasting. …We do not fast in order to suffer. We fast in order to get a grip on our lives and to regain control of those things that have gotten out of control. Further, as we sing during the first week of Great Lent, ‘while fasting from food, let us also fast from our passions.’” This leads to the third point.
 
 ### Fasting from food is only part of the picture.
 
@@ -41,6 +41,7 @@ St. John Chrysostom, the great fourth-century preacher and the author of the Div
 > Let the mouth fast from foul words and unjust criticism.
 > For what good is it if we abstain from birds and fishes, but bite and devour our brothers and sisters?
 > May He who came to the world to save sinners strengthen us to complete the fast with humility, have mercy on us and save us.
+> 
 > St. John Chrysostom
 
 ### Corporate fasting combats my spiritual pride.
