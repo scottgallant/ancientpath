@@ -2,7 +2,6 @@
 title: 'Fasting: It''s not about Me - It''s about Us'
 date: '2016-02-06 14:20:00'
 layout: post
-draft: true
 
 ---
 In the Orthodox Church, we fast a lot—twice a week during the regular routine, and for longer periods during several fasting seasons. Now, that doesn’t mean that we starve for weeks at a time. A fast day means no meat, no dairy, no olive oil, and usually, but not always, no wine—a vegan diet. Fish is sometimes allowed; some fasting seasons are easier than others. Also, with a couple of exceptions throughout the year, every Wednesday and every Friday are fast days.
